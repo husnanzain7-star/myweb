@@ -3,11 +3,12 @@ body
   background-color:#0aaaa0;
   font-family:Cascadia Mono Semibold;
 }
-
-h2
+.header
 {
   color:#ffffff;
+  
 }
+
 
 h3
 {
@@ -17,4 +18,5 @@ h3
 ul
 {
   color:#ffffff;
+
 }
