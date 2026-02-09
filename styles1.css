@@ -1,7 +1,10 @@
 body 
 {
-  background-color:#0aaaa0;
+  background:#0aaaa0;
+  color:#333;
+  widht:100%;
   font-family:Cascadia Mono Semibold;
+  margin:0 auto;
 }
 .header
 {
@@ -24,4 +27,5 @@ ul
   color:#ffffff;
 
 }
+
 
