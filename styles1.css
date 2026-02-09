@@ -9,11 +9,15 @@ body
 .header
 {
   widht: 90%;
-  margin:middle;
-  height: 120px;
+  margin:auto;
+  height: 100px;
   line-height: 120px;
   background:#417aa9;
   color:#ffffff;
+}
+.menu
+{
+  
 }
 
 
@@ -27,6 +31,7 @@ ul
   color:#ffffff;
 
 }
+
 
 
 
