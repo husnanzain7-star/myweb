@@ -9,7 +9,7 @@ body
 .header
 {
   widht: 90%;
-  margin:auto;
+  margin:middle;
   height: 120px;
   line-height: 120px;
   background:#417aa9;
@@ -27,5 +27,6 @@ ul
   color:#ffffff;
 
 }
+
 
 
