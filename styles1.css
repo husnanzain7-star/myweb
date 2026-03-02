@@ -1,6 +1,6 @@
 body 
 {
-  background:#0aaaa0;
+  background:#ffffff;
   color:#333;
   widht:100%;
   font-family:Cascadia Mono Semibold;
@@ -8,32 +8,27 @@ body
 }
 .header
 {
-  widht: 90%;
+  width: 100%;
   margin:auto;
   height: 120px;
   line-height: 120px;
   background:#417aa9;
   color:#ffffff;
+  text-align: center;
 }
-.menu
+.jarak
 {
-  
+  padding:0 1px;
 }
-
-
-h3
-{
-  color:#ffffff;
+.menu{
+  background-color: #417aa8;
+  height: 50px;
+  line-height: 50px;
+  position:relative;
+  width:90%;
+  margin:0 auto;
+  padding:0 auto;
 }
-
-ul
-{
-  color:#ffffff;
-
-}
-
-
-
 
 
 
