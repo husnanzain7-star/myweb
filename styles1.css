@@ -1,8 +1,8 @@
 body 
 {
-  background:#ffffff;
+  background:#4b88bb;
   color:#333;
-  widht:100%;
+  width:100%;
   font-family:Cascadia Mono Semibold;
   margin:0 auto;
 }
@@ -18,7 +18,7 @@ body
 }
 .jarak
 {
-  padding:0 1px;
+  padding:0 15px;
 }
 .menu{
   background-color:#417aa9;
@@ -28,10 +28,11 @@ body
   width: 100%;
   margin: 0 auto;
   padding: 0 auto;
-ul{
+}
+.menu ul{
   list-style-type: none;
 }
-ul li a {
+.menu ul li a {
   float: left;
   width:70px;
   display: block;
@@ -39,15 +40,14 @@ ul li a {
   color:#FFF;
   text-decoration: none;
 }
-ul li a:hover {
+.menu ul li a:hover {
   background-color: #4b88bb;
   display: block;
-}
 }
 
 .content{
   width:90%;
-  margin:auto:
+  margin:auto;
   height:420px;
   padding:0.1px;
   background:#fff;
